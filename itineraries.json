@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "activities": []
+    },
+    {
+      "name": "HOLY CROSS HOSPITAL",
+      "patientCount": "580",
+      "hospitalLocation": "Kottiyam, Kollam, Kerala 691571"
+    },
+    {
+      "id": 2,
+      "activities": []
+    },
+    {
+      "name": "VPS LAKESHORE HOSPITAL",
+      "patientCount": "470",
+      "hospitalLocation": "NH 66, Nettoor, Maradu, Kochi, Ernakulam, Kerala 682040"
+    }
+]
